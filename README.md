@@ -1,2 +1,2 @@
-# Mail
-Front-end for an email client that makes API calls to send and receive emails 
+# Wiki
+A Wikipedia-like online encyclopedia, entries are stored as Markdown files locally.
